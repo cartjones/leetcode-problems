@@ -1,1 +1,1 @@
-Leetcode problem solutions and (hopefully) daily exercises. 
+Leetcode problem solutions
